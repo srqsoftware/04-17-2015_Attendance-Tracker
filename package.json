@@ -1,0 +1,27 @@
+{
+  "name": "Attendance-Tracker",
+  "version": "0.0.1",
+  "description": "Tracks attendance via the meetup API",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/srqsoftware/04-17-2015_Attendance-Tracker.git"
+  },
+  "keywords": [
+    "Attendance",
+    "Meetup",
+    "Tracker",
+    "Blaze",
+    "it",
+    "node.js"
+  ],
+  "author": "Frank Cash",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/srqsoftware/04-17-2015_Attendance-Tracker/issues"
+  },
+  "homepage": "https://github.com/srqsoftware/04-17-2015_Attendance-Tracker"
+}
