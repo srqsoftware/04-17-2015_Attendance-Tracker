@@ -1,2 +1,4 @@
-# 04-17-2015_MeetupTracker
-Meetup Tracker
+# Meetup Tracker
+
+
+Uses the meetup api to attrack attendance
