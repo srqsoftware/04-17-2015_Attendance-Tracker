@@ -23,5 +23,12 @@
   "bugs": {
     "url": "https://github.com/srqsoftware/04-17-2015_Attendance-Tracker/issues"
   },
-  "homepage": "https://github.com/srqsoftware/04-17-2015_Attendance-Tracker"
+  "homepage": "https://github.com/srqsoftware/04-17-2015_Attendance-Tracker",
+  "dependencies": {
+		"express": "4.12.3",
+		"jade": "*",
+		"nib": "*",
+		"request":"2.54.0",
+		"cheerio":"0.19.0"
+	}
 }
